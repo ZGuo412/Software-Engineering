@@ -1,4 +1,7 @@
 # Software-Engineering
+
+For any students study at Purdue and currently take this course, you should definitely do all the works by yourself!!!
+
 Software Engineering Tool course at Purdue University
 
 I implemented all projects with python. For the Lab and Prelab 1-3, I learnt how to use python. Then I implemented different projects with different tools.
